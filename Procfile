@@ -1,1 +1,1 @@
-web: nuxt-ts start
+web: nuxt-ts build && nuxt-ts start
