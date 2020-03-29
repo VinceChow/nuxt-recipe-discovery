@@ -2,7 +2,9 @@
 
 > The Recipe Discovery App built with Nuxt.js, Vuetify, and Typescript.
 >
-> https://nuxt-recipe-discovery.herokuapp.com/
+> URL: https://nuxt-recipe-discovery.herokuapp.com/
+>
+> API: https://spoonacular.com/food-api
 
 ## Build Setup
 
@@ -24,9 +26,10 @@ $ npm run generate
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
 ## Project Setup Reference
+
 > **create-nuxt-app v2.15.0**
 >
-> ✨  Generating Nuxt.js project in **recipe-discovery**
+> ✨ Generating Nuxt.js project in **recipe-discovery**
 >
 > ? Project name **recipe-discovery**
 >
