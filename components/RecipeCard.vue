@@ -12,9 +12,7 @@
     >
       <v-row>
         <v-col offset="2">
-          <v-card-subtitle class="subtitle-1"
-            >Spaghetti with Tomato Sauce</v-card-subtitle
-          >
+          <v-card-subtitle class="subtitle-1" v-text="title"></v-card-subtitle>
         </v-col>
       </v-row>
     </v-card>
@@ -40,5 +38,6 @@ import { Vue, Component, Prop } from 'vue-property-decorator';
 export default class RecipeCard extends Vue {
   @Prop({ type: String, required: true }) readonly color!: String;
   @Prop({ type: String, required: true }) readonly imgSrc!: String;
+  @Prop({ type: String, required: true }) readonly title!: String;
 }
 </script>
