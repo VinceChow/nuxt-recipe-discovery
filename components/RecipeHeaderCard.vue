@@ -2,7 +2,7 @@
   <v-card
     class="recipe-round-border"
     style="margin: 10px"
-    color="#952175"
+    :color="color"
     min-width="300"
     max-width="300"
     shaped
@@ -22,10 +22,9 @@
           ></v-progress-circular>
         </v-row>
       </template>
-      <v-overlay absolute opacity="0.2"> </v-overlay>
-      <v-card-title>
-        Halcyon Days
-      </v-card-title>
+      <v-overlay :color="color" absolute opacity="1" class="align-end">
+        <v-card-text class="title" v-text="title"></v-card-text>
+      </v-overlay>
     </v-img>
   </v-card>
 </template>
@@ -35,6 +34,8 @@ import { Vue, Component, Prop } from 'vue-property-decorator';
 
 @Component
 export default class RecipeHeaderCard extends Vue {
+  @Prop({ type: String, required: true }) readonly color!: String;
   @Prop({ type: String, required: true }) readonly imgSrc!: String;
+  @Prop({ type: String, required: true }) readonly title!: String;
 }
 </script>

@@ -1,0 +1,1732 @@
+{
+  "recipes": [
+    {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": true,
+      "sustainable": false,
+      "weightWatcherSmartPoints": 34,
+      "gaps": "no",
+      "lowFodmap": false,
+      "aggregateLikes": 892,
+      "spoonacularScore": 46.0,
+      "healthScore": 4.0,
+      "creditsText": "Jen West",
+      "license": "CC BY-SA 3.0",
+      "sourceName": "Pink When",
+      "pricePerServing": 88.18,
+      "extendedIngredients": [
+        {
+          "id": 20081,
+          "aisle": "Baking",
+          "image": "flour.png",
+          "consistency": "solid",
+          "name": "all purpose flour",
+          "original": "2 1/2 cups all purpose flour",
+          "originalString": "2 1/2 cups all purpose flour",
+          "originalName": "all purpose flour",
+          "amount": 2.5,
+          "unit": "cups",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 2.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 591.47,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 18371,
+          "aisle": "Baking",
+          "image": "white-powder.jpg",
+          "consistency": "solid",
+          "name": "baking powder",
+          "original": "2 tsp baking powder",
+          "originalString": "2 tsp baking powder",
+          "originalName": "baking powder",
+          "amount": 2.0,
+          "unit": "tsp",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 19334,
+          "aisle": "Baking",
+          "image": "light-brown-sugar.jpg",
+          "consistency": "solid",
+          "name": "brown sugar",
+          "original": "1 cup packed brown sugar",
+          "originalString": "1 cup packed brown sugar",
+          "originalName": "packed brown sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": ["packed"],
+          "metaInformation": ["packed"],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 236.588,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 1123,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "egg.png",
+          "consistency": "solid",
+          "name": "eggs",
+          "original": "2 large eggs",
+          "originalString": "2 large eggs",
+          "originalName": "eggs",
+          "amount": 2.0,
+          "unit": "large",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "large",
+              "unitLong": "larges"
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "large",
+              "unitLong": "larges"
+            }
+          }
+        },
+        {
+          "id": 19335,
+          "aisle": "Baking",
+          "image": "sugar-in-bowl.png",
+          "consistency": "solid",
+          "name": "granulated sugar",
+          "original": "1/2 cup granulated sugar",
+          "originalString": "1/2 cup granulated sugar",
+          "originalName": "granulated sugar",
+          "amount": 0.5,
+          "unit": "cup",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 118.294,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 1102,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "chocolate-milk.jpg",
+          "consistency": "liquid",
+          "name": "chocolate milk",
+          "original": "10 oz Montana Wild Huckleberry Milk Chocolate",
+          "originalString": "10 oz Montana Wild Huckleberry Milk Chocolate",
+          "originalName": "Montana Wild Huckleberry Milk Chocolate",
+          "amount": 10.0,
+          "unit": "oz",
+          "meta": ["wild"],
+          "metaInformation": ["wild"],
+          "measures": {
+            "us": {
+              "amount": 10.0,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 283.495,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 2047,
+          "aisle": "Spices and Seasonings",
+          "image": "salt.jpg",
+          "consistency": "solid",
+          "name": "salt",
+          "original": "1/2 tsp salt",
+          "originalString": "1/2 tsp salt",
+          "originalName": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 0.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 1145,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "butter-sliced.jpg",
+          "consistency": "solid",
+          "name": "unsalted butter",
+          "original": "1 cup softened unsalted butter",
+          "originalString": "1 cup softened unsalted butter",
+          "originalName": "softened unsalted butter",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": ["unsalted", "softened"],
+          "metaInformation": ["unsalted", "softened"],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 236.588,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 2050,
+          "aisle": "Baking",
+          "image": "vanilla.jpg",
+          "consistency": "solid",
+          "name": "vanilla",
+          "original": "2 1/2 tsp vanilla",
+          "originalString": "2 1/2 tsp vanilla",
+          "originalName": "vanilla",
+          "amount": 2.5,
+          "unit": "tsp",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 2.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 2.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        }
+      ],
+      "id": 715568,
+      "title": "Chocolate Chip Cookies",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "http://www.pinkwhen.com/huckleberry-chocolate-chip-cookies-recipe/",
+      "image": "https://spoonacular.com/recipeImages/715568-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "Chocolate Chip Cookies might be just the dessert you are searching for. For <b>$1.52 per serving</b>, this recipe <b>covers 15%</b> of your daily requirements of vitamins and minerals. This recipe makes 6 servings with <b>932 calories</b>, <b>9g of protein</b>, and <b>49g of fat</b> each. 892 people were impressed by this recipe. If you have all purpose flour, granulated sugar, vanilla, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 50%</b>. This score is solid. Try <a href=\"https://spoonacular.com/recipes/whole-wheat-chocolate-chip-walnut-cookies-my-favorite-chocolate-chip-cookies-487831\">Whole Wheat Chocolate Chip Walnut Cookies {My Favorite Chocolate Chip Cookies}</a>, <a href=\"https://spoonacular.com/recipes/eggless-chocolate-chip-cookies-soft-chocolate-chip-cookies-618944\">eggless chocolate chip cookies | soft chocolate chip cookies</a>, and <a href=\"https://spoonacular.com/recipes/triple-stuffed-m-m-chocolate-chip-cookies-toffee-cookies-peanut-butter-cup-cookies-593065\">Triple Stuffed M&M Chocolate Chip Cookies, Toffee Cookies & Peanut Butter Cup Cookies</a> for similar recipes.",
+      "cuisines": [],
+      "dishTypes": ["side dish"],
+      "diets": ["lacto ovo vegetarian"],
+      "occasions": [],
+      "winePairing": {},
+      "instructions": "1. Preheat oven to 350.2. In a large mixing bowl, combine all ingredients (except chocolate) and mix well.3. Add in chocolate and continue to mix well.3. Using a teaspoon, scoop and place on an un-greased cookie sheet about 2 inches apart.4. Bake for 10-12 minutes, pulling them from the oven when edges begin to brown.5. Allow to cool slightly, and then serve immediately.These are the most amazing, most delicious and softest cookies ever. If you have never tried Wild Huckleberry Milk Chocolate, I totally recommend you doing so at your earliest convenience.It has to be one of the most decadent chocolates I have ever had the pleasure of tasting. Just to clarify (I am so in love with this chocolate), heaven on Earth is in this amazingly delicious Huckleberry Chocolate Chip Cookies Recipe.JOIN 500,000 SUBSCRIBERS!Join over 500,000 others who follow PinkWhen on Social Media, the PinkWhen blog, and email. Sign up to receive exclusive bonuses like this FREE Simple Fit Dinners Ebook.Don't wait! You won't want to miss a thing.Success! Now check your email to confirm your subscription and download your FREE ebook.There was an error submitting your subscription. Please try again.First NameEmail AddressSubscribePowered by ConvertKit",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Preheat oven to 350.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "image": "oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "In a large mixing bowl, combine all ingredients (except chocolate) and mix well.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 405907,
+                  "name": "mixing bowl",
+                  "image": "mixing-bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Add in chocolate and continue to mix well.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Using a teaspoon, scoop and place on an un-greased cookie sheet about 2 inches apart.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "image": "baking-sheet.jpg"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Bake for 10-12 minutes, pulling them from the oven when edges begin to brown.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": {
+                "number": 12,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 6,
+              "step": "Allow to cool slightly, and then serve immediately.These are the most amazing, most delicious and softest cookies ever. If you have never tried Wild Huckleberry Milk Chocolate, I totally recommend you doing so at your earliest convenience.It has to be one of the most decadent chocolates I have ever had the pleasure of tasting. Just to clarify (I am so in love with this chocolate), heaven on Earth is in this amazingly delicious Huckleberry Chocolate Chip Cookies Recipe.JOIN 500,000 SUBSCRIBERS!Join over 500,000 others who follow Pink",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "When on Social Media, the Pink",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "When blog, and email. Sign up to receive exclusive bonuses like this FREE Simple Fit Dinners Ebook.Don't wait! You won't want to miss a thing.Success! Now check your email to confirm your subscription and download your FREE ebook.There was an error submitting your subscription. Please try again.First Name",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 9,
+              "step": "Email",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 10,
+              "step": "Address",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 11,
+              "step": "Subscribe",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 12,
+              "step": "Powered by Convert",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 13,
+              "step": "Kit",
+              "ingredients": [],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/chocolate-chip-cookies-715568"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "weightWatcherSmartPoints": 10,
+      "gaps": "no",
+      "lowFodmap": false,
+      "aggregateLikes": 38,
+      "spoonacularScore": 40.0,
+      "healthScore": 3.0,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 112.31,
+      "extendedIngredients": [
+        {
+          "id": 19904,
+          "aisle": "Sweet Snacks",
+          "image": "dark-chocolate-pieces.jpg",
+          "consistency": "solid",
+          "name": "dark chocolate",
+          "original": "7 oz. dark chocolate, grated",
+          "originalString": "7 oz. dark chocolate, grated",
+          "originalName": "dark chocolate, grated",
+          "amount": 7.0,
+          "unit": "oz",
+          "meta": ["dark", "grated"],
+          "metaInformation": ["dark", "grated"],
+          "measures": {
+            "us": {
+              "amount": 7.0,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 198.447,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 1124,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "egg-white.jpg",
+          "consistency": "solid",
+          "name": "egg whites",
+          "original": "4 egg whites",
+          "originalString": "4 egg whites",
+          "originalName": "egg whites",
+          "amount": 4.0,
+          "unit": "",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 4.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 4.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 1125,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "egg-yolk.jpg",
+          "consistency": "solid",
+          "name": "egg yolks",
+          "original": "4 egg yolks",
+          "originalString": "4 egg yolks",
+          "originalName": "egg yolks",
+          "amount": 4.0,
+          "unit": "",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 4.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 4.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 18423,
+          "aisle": "Sweet Snacks",
+          "image": "ladyfingers.png",
+          "consistency": "solid",
+          "name": "ladyfingers",
+          "original": "1 box of Pavisini ladyfingers",
+          "originalString": "1 box of Pavisini ladyfingers",
+          "originalName": "Pavisini ladyfingers",
+          "amount": 1.0,
+          "unit": "box",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "box",
+              "unitLong": "box"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "box",
+              "unitLong": "box"
+            }
+          }
+        }
+      ],
+      "id": 649977,
+      "title": "Lick-Your-Plate Amazing Tiramisu",
+      "readyInMinutes": 45,
+      "servings": 8,
+      "sourceUrl": "http://www.foodista.com/recipe/MQ6FSP5J/lick-your-plate-amazing-tiramisu",
+      "image": "https://spoonacular.com/recipeImages/649977-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "The recipe Lick-Your-Plate Amazing Tiramisu is ready <b>in roughly 45 minutes</b> and is definitely an amazing <b>dairy free</b> option for lovers of Mediterranean food. One serving contains <b>275 calories</b>, <b>8g of protein</b>, and <b>15g of fat</b>. For <b>$1.12 per serving</b>, this recipe <b>covers 9%</b> of your daily requirements of vitamins and minerals. 38 people have made this recipe and would make it again. If you have chocolate, egg whites, pavisini ladyfingers, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 44%</b>. This score is good. Try <a href=\"https://spoonacular.com/recipes/lick-your-chops-supper-305673\">Lick Your Chops Supper</a>, <a href=\"https://spoonacular.com/recipes/lick-the-bowl-clean-hummus-387902\">Lick-the-Bowl-Clean Hummus</a>, and <a href=\"https://spoonacular.com/recipes/classic-tiramisu-and-a-coffee-free-chocolate-orange-tiramisu-67921\">Classic Tiramisu And A Coffee-free Chocolate-orange Tiramisu</a> for similar recipes.",
+      "cuisines": ["Mediterranean", "Italian", "European"],
+      "dishTypes": ["side dish"],
+      "diets": ["dairy free"],
+      "occasions": [],
+      "winePairing": {
+        "pairedWines": ["chianti", "trebbiano", "verdicchio"],
+        "pairingText": "Italian works really well with Chianti, Trebbiano, and Verdicchio. Italians know food and they know wine. Trebbiano and Verdicchio are Italian white wines that pair well with fish and white meat, while Chianti is a great Italian red for heavier, bolder dishes. The Barone Ricasoli Rocca Guicciarda Chianti Classico Riserva with a 4.2 out of 5 star rating seems like a good match. It costs about 20 dollars per bottle.",
+        "productMatches": [
+          {
+            "id": 472924,
+            "title": "Barone Ricasoli Rocca Guicciarda Chianti Classico Riserva",
+            "description": "Ruby red in color, the wine displays a fragrant bouquet. On the palate it offers an elegant and harmonious body with a rich aftertaste. Alcohol: 13.5%",
+            "price": "$19.99",
+            "imageUrl": "https://spoonacular.com/productImages/472924-312x231.jpg",
+            "averageRating": 0.8400000000000001,
+            "ratingCount": 7.0,
+            "score": 0.7945454545454547,
+            "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Fbarone-ricasoli-rocca-guicciarda-chianti-classico-riserva-1999%2F55155"
+          }
+        ]
+      },
+      "instructions": "<ol><li>Make your pot of coffee & let cool.</li><li>Beat the egg yolks with the sugar in a bowl until light, pale & \"ribbons.\" Then mix in the mascarpone.</li><li>Stiffly whisk the egg whites in a different grease-free bowl.</li><li>Gently fold in the egg whites in thirds to the mascarpone mix.</li><li>Make a single layer of ladyfingers on the base of a deep serving dish making sure they fit tightly together on the bottom. Then brush the lady fingers evenly with coffee (don't be shy, a good two passes with the brush should be plenty).</li><li>Make a nice even layer of the mascarpone cream/egg mixture and sprinkle/cover with grated chocolate.</li><li>Continue making layers until all the ingredients are used (you should have 3 layers), finishing with a layer of mascarpone cream/egg mixture.</li><li>Dust with cocoa, wrap with plastic and chill in the fridge for about 3 hours. Enjoy!!</li></ol>",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Make your pot of coffee & let cool.Beat the egg yolks with the sugar in a bowl until light, pale & \"ribbons.\" Then mix in the mascarpone.Stiffly whisk the egg whites in a different grease-free bowl.Gently fold in the egg whites in thirds to the mascarpone mix.Make a single layer of ladyfingers on the base of a deep serving dish making sure they fit tightly together on the bottom. Then brush the lady fingers evenly with coffee (don't be shy, a good two passes with the brush should be plenty).Make a nice even layer of the mascarpone cream/egg mixture and sprinkle/cover with grated chocolate.Continue making layers until all the ingredients are used (you should have 3 layers), finishing with a layer of mascarpone cream/egg mixture.Dust with cocoa, wrap with plastic and chill in the fridge for about 3 hours. Enjoy!!",
+              "ingredients": [
+                {
+                  "id": 18423,
+                  "name": "ladyfingers",
+                  "image": "ladyfingers.png"
+                },
+                {
+                  "id": 1124,
+                  "name": "egg whites",
+                  "image": "egg-white.jpg"
+                },
+                {
+                  "id": 1125,
+                  "name": "egg yolk",
+                  "image": "egg-yolk.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404661,
+                  "name": "whisk",
+                  "image": "whisk.png"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "image": "bowl.jpg"
+                },
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/lick-your-plate-amazing-tiramisu-649977"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "weightWatcherSmartPoints": 5,
+      "gaps": "no",
+      "lowFodmap": false,
+      "aggregateLikes": 78,
+      "spoonacularScore": 18.0,
+      "healthScore": 1.0,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 26.23,
+      "extendedIngredients": [
+        {
+          "id": 9003,
+          "aisle": "Produce",
+          "image": "apple.jpg",
+          "consistency": "solid",
+          "name": "apples",
+          "original": "3 large McIntosh apples, peeled, cored and finely chopped",
+          "originalString": "3 large McIntosh apples, peeled, cored and finely chopped",
+          "originalName": "McIntosh apples, peeled, cored and finely chopped",
+          "amount": 3.0,
+          "unit": "large",
+          "meta": ["cored", "peeled", "finely chopped"],
+          "metaInformation": ["cored", "peeled", "finely chopped"],
+          "measures": {
+            "us": {
+              "amount": 3.0,
+              "unitShort": "large",
+              "unitLong": "larges"
+            },
+            "metric": {
+              "amount": 3.0,
+              "unitShort": "large",
+              "unitLong": "larges"
+            }
+          }
+        },
+        {
+          "id": 18371,
+          "aisle": "Baking",
+          "image": "white-powder.jpg",
+          "consistency": "solid",
+          "name": "baking powder",
+          "original": "2 teaspoons baking powder",
+          "originalString": "2 teaspoons baking powder",
+          "originalName": "baking powder",
+          "amount": 2.0,
+          "unit": "teaspoons",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 18372,
+          "aisle": "Baking",
+          "image": "white-powder.jpg",
+          "consistency": "solid",
+          "name": "baking soda",
+          "original": "1 teaspoon baking soda",
+          "originalString": "1 teaspoon baking soda",
+          "originalName": "baking soda",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        },
+        {
+          "id": 19070,
+          "aisle": "Baking",
+          "image": "peanut-butter-or-butterscotch-chips.jpg",
+          "consistency": "solid",
+          "name": "butterscotch chips",
+          "original": "6 ounces (½ a 12-ounce package) butterscotch chips",
+          "originalString": "6 ounces (½ a 12-ounce package) butterscotch chips",
+          "originalName": "(½ a 12-ounce package) butterscotch chips",
+          "amount": 6.0,
+          "unit": "ounces",
+          "meta": ["()"],
+          "metaInformation": ["()"],
+          "measures": {
+            "us": {
+              "amount": 6.0,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 170.097,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 1123,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "egg.png",
+          "consistency": "solid",
+          "name": "eggs",
+          "original": "2 eggs",
+          "originalString": "2 eggs",
+          "originalName": "eggs",
+          "amount": 2.0,
+          "unit": "",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 20081,
+          "aisle": "Baking",
+          "image": "flour.png",
+          "consistency": "solid",
+          "name": "flour",
+          "original": "2 cups flour",
+          "originalString": "2 cups flour",
+          "originalName": "flour",
+          "amount": 2.0,
+          "unit": "cups",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 473.176,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 1012010,
+          "aisle": "Spices and Seasonings",
+          "image": "cinnamon.jpg",
+          "consistency": "solid",
+          "name": "ground cinnamon",
+          "original": "1 teaspoon ground cinnamon",
+          "originalString": "1 teaspoon ground cinnamon",
+          "originalName": "ground cinnamon",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        },
+        {
+          "id": 2025,
+          "aisle": "Spices and Seasonings",
+          "image": "ground-nutmeg.jpg",
+          "consistency": "solid",
+          "name": "ground nutmeg",
+          "original": "1 teaspoon ground nutmeg",
+          "originalString": "1 teaspoon ground nutmeg",
+          "originalName": "ground nutmeg",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        },
+        {
+          "id": 2047,
+          "aisle": "Spices and Seasonings",
+          "image": "salt.jpg",
+          "consistency": "solid",
+          "name": "salt",
+          "original": "1/2 teaspoon salt",
+          "originalString": "1/2 teaspoon salt",
+          "originalName": "salt",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 0.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 19335,
+          "aisle": "Baking",
+          "image": "sugar-in-bowl.png",
+          "consistency": "solid",
+          "name": "sugar",
+          "original": "1 cup sugar",
+          "originalString": "1 cup sugar",
+          "originalName": "sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 236.588,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 4513,
+          "aisle": "Oil, Vinegar, Salad Dressing",
+          "image": "vegetable-oil.jpg",
+          "consistency": "liquid",
+          "name": "vegetable oil",
+          "original": "1 cup vegetable oil",
+          "originalString": "1 cup vegetable oil",
+          "originalName": "vegetable oil",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 236.588,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        }
+      ],
+      "id": 632573,
+      "title": "Apple Pie Bars",
+      "readyInMinutes": 75,
+      "servings": 24,
+      "sourceUrl": "http://www.foodista.com/recipe/42PHKG4P/apple-pie-bars",
+      "image": "https://spoonacular.com/recipeImages/632573-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "Apple Pie Bars might be just the dessert you are searching for. Watching your figure? This dairy free recipe has <b>124 calories</b>, <b>2g of protein</b>, and <b>2g of fat</b> per serving. This recipe serves 24 and costs 25 cents per serving. This recipe from Foodista has 78 fans. This recipe is typical of American cuisine. A mixture of butterscotch chips, ground nutmeg, salt, and a handful of other ingredients are all it takes to make this recipe so yummy. From preparation to the plate, this recipe takes about <b>1 hour and 15 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 21%</b>. This score is rather bad. Try <a href=\"https://spoonacular.com/recipes/apple-butter-pie-bars-927912\">Apple Butter Pie Bars</a>, <a href=\"https://spoonacular.com/recipes/peaches-and-cream-pie-bars-921141\">Peaches and Cream Pie Bars</a>, and <a href=\"https://spoonacular.com/recipes/homemade-cherry-pie-bars-with-a-cream-cheese-glaze-918483\">Homemade Cherry Pie Bars with a Cream Cheese Glaze</a> for similar recipes.",
+      "cuisines": ["American"],
+      "dishTypes": [
+        "antipasti",
+        "starter",
+        "snack",
+        "appetizer",
+        "antipasto",
+        "hor d'oeuvre"
+      ],
+      "diets": ["dairy free"],
+      "occasions": [],
+      "winePairing": {
+        "pairedWines": [],
+        "pairingText": "",
+        "productMatches": []
+      },
+      "instructions": "<ol><li>Preheat the oven to 350 degrees F.  Spray a 9 by 13 inch baking dish with cooking spray.</li><li>In the bowl of an electric mixer, thoroughly combine the oil, eggs, and sugar.  Sift the flour, baking powder, salt, soda, and spices together in a bowl, then add to the oil mixture in the mixer, beating until thoroughly mixed.  The batter will be thick.</li><li>Use a sturdy spoon to stir in the apple pieces.  Scrape the mixture into the prepared pan, spreading it out evenly.  Sprinkle the butterscotch chips over the top, pressing them into the batter lightly.</li><li>Bake for 45 minutes to 1 hour, until golden and pulling away from the sides of the pan slightly.</li><li>Cool thoroughly and cut into squares.</li></ol>",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Preheat the oven to 350 degrees F.  Spray a 9 by 13 inch baking dish with cooking spray.In the bowl of an electric mixer, thoroughly combine the oil, eggs, and sugar.  Sift the flour, baking powder, salt, soda, and spices together in a bowl, then add to the oil mixture in the mixer, beating until thoroughly mixed.  The batter will be thick.Use a sturdy spoon to stir in the apple pieces.  Scrape the mixture into the prepared pan, spreading it out evenly.  Sprinkle the butterscotch chips over the top, pressing them into the batter lightly.",
+              "ingredients": [
+                {
+                  "id": 19070,
+                  "name": "butterscotch chips",
+                  "image": "peanut-butter-or-butterscotch-chips.jpg"
+                },
+                {
+                  "id": 9003,
+                  "name": "apple",
+                  "image": "apple.jpg"
+                },
+                {
+                  "id": 20081,
+                  "name": "all purpose flour",
+                  "image": "flour.png"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "image": "sugar-in-bowl.png"
+                },
+                {
+                  "id": 1123,
+                  "name": "egg",
+                  "image": "egg.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404628,
+                  "name": "hand mixer",
+                  "image": "hand-mixer.png"
+                },
+                {
+                  "id": 404646,
+                  "name": "baking pan",
+                  "image": "roasting-pan.jpg"
+                },
+                {
+                  "id": 404726,
+                  "name": "blender",
+                  "image": "blender.png"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "image": "bowl.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "image": "oven.jpg",
+                  "temperature": {
+                    "number": 350.0,
+                    "unit": "Fahrenheit"
+                  }
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Bake for 45 minutes to 1 hour, until golden and pulling away from the sides of the pan slightly.Cool thoroughly and cut into squares.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": {
+                "number": 45,
+                "unit": "minutes"
+              }
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/apple-pie-bars-632573"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "weightWatcherSmartPoints": 2,
+      "gaps": "no",
+      "lowFodmap": false,
+      "aggregateLikes": 13,
+      "spoonacularScore": 7.0,
+      "healthScore": 0.0,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 12.59,
+      "extendedIngredients": [
+        {
+          "id": 10020129,
+          "aisle": "Baking",
+          "image": "flour.png",
+          "consistency": "solid",
+          "name": "cake flour",
+          "original": "100 grams cake flour",
+          "originalString": "100 grams cake flour",
+          "originalName": "cake flour",
+          "amount": 100.0,
+          "unit": "grams",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 3.527,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 100.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 19335,
+          "aisle": "Baking",
+          "image": "sugar-in-bowl.png",
+          "consistency": "solid",
+          "name": "sugar",
+          "original": "35 grams sugar",
+          "originalString": "35 grams sugar",
+          "originalName": "sugar",
+          "amount": 35.0,
+          "unit": "grams",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 1.235,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 35.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 14214,
+          "aisle": "Tea and Coffee",
+          "image": "instant-coffee-or-instant-espresso.png",
+          "consistency": "solid",
+          "name": "instant coffee granules",
+          "original": "1 tablespoon instant coffee granules",
+          "originalString": "1 tablespoon instant coffee granules",
+          "originalName": "instant coffee granules",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            }
+          }
+        },
+        {
+          "id": 12155,
+          "aisle": "Nuts;Baking",
+          "image": "walnuts.jpg",
+          "consistency": "solid",
+          "name": "walnuts",
+          "original": "50 grams toasted walnuts",
+          "originalString": "50 grams toasted walnuts",
+          "originalName": "toasted walnuts",
+          "amount": 50.0,
+          "unit": "grams",
+          "meta": ["toasted"],
+          "metaInformation": ["toasted"],
+          "measures": {
+            "us": {
+              "amount": 1.764,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 50.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 2047,
+          "aisle": "Spices and Seasonings",
+          "image": "salt.jpg",
+          "consistency": "solid",
+          "name": "salt",
+          "original": "pinch of salt",
+          "originalString": "pinch of salt",
+          "originalName": "pinch of salt",
+          "amount": 1.0,
+          "unit": "pinch",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "pinch",
+              "unitLong": "pinch"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "pinch",
+              "unitLong": "pinch"
+            }
+          }
+        },
+        {
+          "id": 4582,
+          "aisle": "Oil, Vinegar, Salad Dressing",
+          "image": "vegetable-oil.jpg",
+          "consistency": "liquid",
+          "name": "canola oil",
+          "original": "3 tablespoon canola oil",
+          "originalString": "3 tablespoon canola oil",
+          "originalName": "canola oil",
+          "amount": 3.0,
+          "unit": "tablespoon",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 3.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 3.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        },
+        {
+          "id": 14412,
+          "aisle": "Beverages",
+          "image": "water.png",
+          "consistency": "liquid",
+          "name": "water",
+          "original": "1 tablespoon water",
+          "originalString": "1 tablespoon water",
+          "originalName": "water",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            }
+          }
+        },
+        {
+          "id": 9299,
+          "aisle": "Dried Fruits;Produce;Baking",
+          "image": "raisins.jpg",
+          "consistency": "solid",
+          "name": "raisins",
+          "original": "20 grams raisins",
+          "originalString": "20 grams raisins",
+          "originalName": "raisins",
+          "amount": 20.0,
+          "unit": "grams",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 0.705,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 20.0,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 19336,
+          "aisle": "Baking",
+          "image": "powdered-sugar.jpg",
+          "consistency": "solid",
+          "name": "powdered sugar",
+          "original": "powdered sugar, to dust",
+          "originalString": "powdered sugar, to dust",
+          "originalName": "powdered sugar, to dust",
+          "amount": 1.0,
+          "unit": "serving",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "serving",
+              "unitLong": "serving"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "serving",
+              "unitLong": "serving"
+            }
+          }
+        }
+      ],
+      "id": 639865,
+      "title": "Coffee Cookies",
+      "readyInMinutes": 45,
+      "servings": 16,
+      "sourceUrl": "https://www.foodista.com/recipe/7FD6YGWV/coffee-cookies",
+      "image": "https://spoonacular.com/recipeImages/639865-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "If you have around <b>approximately 45 minutes</b> to spend in the kitchen, Coffee Cookies might be a super <b>dairy free</b> recipe to try. One serving contains <b>81 calories</b>, <b>1g of protein</b>, and <b>5g of fat</b>. For <b>13 cents per serving</b>, this recipe <b>covers 2%</b> of your daily requirements of vitamins and minerals. This recipe serves 16. A few people made this recipe, and 13 would say it hit the spot. It works well as a dessert. A mixture of canolan oil, water, raisins, and a handful of other ingredients are all it takes to make this recipe so yummy. It is brought to you by Foodista. With a spoonacular <b>score of 4%</b>, this dish is very bad (but still fixable). Try <a href=\"https://spoonacular.com/recipes/coffee-cookies-627023\">Coffee Cookies</a>, <a href=\"https://spoonacular.com/recipes/coffee-bean-cookies-54727\">Coffee Bean Cookies</a>, and <a href=\"https://spoonacular.com/recipes/coffee-cake-cookies-631238\">Coffee Cake Cookies</a> for similar recipes.",
+      "cuisines": [],
+      "dishTypes": ["dessert"],
+      "diets": ["dairy free"],
+      "occasions": [],
+      "winePairing": {
+        "pairedWines": ["cream sherry", "madeira", "prosecco"],
+        "pairingText": "Cookies on the menu? Try pairing with Cream Sherry, Madeira, and Prosecco. Sweet bubbly Prosecco doesn't overwhelm simple sugar or shortbread cookies, a sweet cream sherry complements spiced cookies, and madeira's nutty notes match cookies with nuts perfectly. The NV Johnson Estate Cream Sherry with a 5 out of 5 star rating seems like a good match. It costs about 19 dollars per bottle.",
+        "productMatches": [
+          {
+            "id": 430626,
+            "title": "NV Johnson Estate Cream Sherry",
+            "description": "Very aromatic with notes of hazelnut, vanilla, and a touch of oak followed by sweet raisins and a touch of yeast. Clean lasting finish. Good now but will reward those allow it to age\"\". A favorite pre-prandial beverage. Consider it with nuts before dinner as an aperitif, or after dinner with dessert, especially chocolates and fruit-based desserts. Also wonderful on cold afternoons, served with biscotti to dip in \"\"Italian-style\"\". \"",
+            "price": "$19.49",
+            "imageUrl": "https://spoonacular.com/productImages/430626-312x231.jpg",
+            "averageRating": 1.0,
+            "ratingCount": 2.0,
+            "score": 0.8571428571428572,
+            "link": "https://www.amazon.com/Johnson-Estate-Cream-Sherry-750/dp/B00D3GQSRW?tag=spoonacular-20"
+          }
+        ]
+      },
+      "instructions": "Preheat oven to 350 degrees F and line a cookie sheet with parchment paper.\nPut the cake flour, sugar, coffee, walnuts, and salt in a food processor and process for about 10 seconds (or until the walnuts are well grounded).\nNow put the mixture into a mixing bowl and add canola oil. Form a pasty dough, then separate the dough with your hands to form small crumbs. Add the water and form into a clean dough. If you like raisins, you can combine it with the dough now.\nDivide the dough into 16 pieces and roll each piece into a ball. Put each ball on a cookie sheet and bake at 350 degrees F for 25 minutes.\nLet the cookies cool for about 20 minutes. Dust with powdered sugar before serving.",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Preheat oven to 350 degrees F and line a cookie sheet with parchment paper.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404770,
+                  "name": "baking paper",
+                  "image": "baking-paper.jpg"
+                },
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "image": "baking-sheet.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "image": "oven.jpg",
+                  "temperature": {
+                    "number": 350.0,
+                    "unit": "Fahrenheit"
+                  }
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Put the cake flour, sugar, coffee, walnuts, and salt in a food processor and process for about 10 seconds (or until the walnuts are well grounded).",
+              "ingredients": [
+                {
+                  "id": 10020129,
+                  "name": "cake flour",
+                  "image": "flour.png"
+                },
+                {
+                  "id": 12155,
+                  "name": "walnuts",
+                  "image": "walnuts.jpg"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "image": "sugar-in-bowl.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404771,
+                  "name": "food processor",
+                  "image": "food-processor.png"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Now put the mixture into a mixing bowl and add canola oil. Form a pasty dough, then separate the dough with your hands to form small crumbs.",
+              "ingredients": [
+                {
+                  "id": 4582,
+                  "name": "canola oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 405907,
+                  "name": "mixing bowl",
+                  "image": "mixing-bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Add the water and form into a clean dough. If you like raisins, you can combine it with the dough now.",
+              "ingredients": [
+                {
+                  "id": 9299,
+                  "name": "raisins",
+                  "image": "raisins.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Divide the dough into 16 pieces and roll each piece into a ball. Put each ball on a cookie sheet and bake at 350 degrees F for 25 minutes.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "image": "baking-sheet.jpg"
+                }
+              ],
+              "length": {
+                "number": 25,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 6,
+              "step": "Let the cookies cool for about 20 minutes. Dust with powdered sugar before serving.",
+              "ingredients": [
+                {
+                  "id": 19336,
+                  "name": "powdered sugar",
+                  "image": "powdered-sugar.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 20,
+                "unit": "minutes"
+              }
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/coffee-cookies-639865"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "weightWatcherSmartPoints": 28,
+      "gaps": "no",
+      "lowFodmap": false,
+      "aggregateLikes": 14,
+      "spoonacularScore": 7.0,
+      "healthScore": 0.0,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 78.43,
+      "extendedIngredients": [
+        {
+          "id": 1001,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "butter-sliced.jpg",
+          "consistency": "solid",
+          "name": "butter",
+          "original": "1/2 cup (1 stick) butter, melted",
+          "originalString": "1/2 cup (1 stick) butter, melted",
+          "originalName": "(1 stick) butter, melted",
+          "amount": 0.5,
+          "unit": "cup",
+          "meta": ["melted", "(1 stick)"],
+          "metaInformation": ["melted", "(1 stick)"],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 118.294,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 19335,
+          "aisle": "Baking",
+          "image": "sugar-in-bowl.png",
+          "consistency": "solid",
+          "name": "sugar",
+          "original": "1 cup sugar",
+          "originalString": "1 cup sugar",
+          "originalName": "sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 236.588,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 10018617,
+          "aisle": "Sweet Snacks;Baking",
+          "image": "graham-crackers.jpg",
+          "consistency": "solid",
+          "name": "graham cracker crumbs",
+          "original": "2 cups graham cracker crumbs",
+          "originalString": "2 cups graham cracker crumbs",
+          "originalName": "graham cracker crumbs",
+          "amount": 2.0,
+          "unit": "cups",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 473.176,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 10019146,
+          "aisle": "Baking",
+          "image": "chocolate-chips.jpg",
+          "consistency": "solid",
+          "name": "milk chocolate chips",
+          "original": "1 bag milk chocolate chocolate chips minus a handful of chips",
+          "originalString": "1 bag milk chocolate chocolate chips minus a handful of chips",
+          "originalName": "milk chocolate chocolate chips minus a handful of chips",
+          "amount": 1.0,
+          "unit": "bag",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "bag",
+              "unitLong": "bag"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "bag",
+              "unitLong": "bag"
+            }
+          }
+        },
+        {
+          "id": 19116,
+          "aisle": "Baking",
+          "image": "normal-marshmallows.jpg",
+          "consistency": "solid",
+          "name": "marshmallows",
+          "original": "1/2 bag miniature marshmallows",
+          "originalString": "1/2 bag miniature marshmallows",
+          "originalName": "miniature marshmallows",
+          "amount": 0.5,
+          "unit": "bag",
+          "meta": ["miniature"],
+          "metaInformation": ["miniature"],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "bag",
+              "unitLong": "bags"
+            },
+            "metric": {
+              "amount": 0.5,
+              "unitShort": "bag",
+              "unitLong": "bags"
+            }
+          }
+        }
+      ],
+      "id": 658936,
+      "title": "S'more Bars",
+      "readyInMinutes": 45,
+      "servings": 8,
+      "sourceUrl": "https://www.foodista.com/recipe/V6FLBTL2/smore-bars",
+      "image": "https://spoonacular.com/recipeImages/658936-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "S'more Bars requires roughly <b>about 45 minutes</b> from start to finish. This recipe serves 8 and costs 78 cents per serving. One portion of this dish contains roughly <b>4g of protein</b>, <b>24g of fat</b>, and a total of <b>557 calories</b>. This recipe from Foodista has 14 fans. A mixture of milk chocolate chocolate chips minus a handful of chips, sugar, graham cracker crumbs, and a handful of other ingredients are all it takes to make this recipe so scrumptious. It works well as a dessert. All things considered, we decided this recipe <b>deserves a spoonacular score of 5%</b>. This score is very bad (but still fixable). If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/chocolate-peanut-butter-pretzel-and-caramel-candy-bars-homemade-take-5-bars-611931\">Chocolate, Peanut Butter, Pretzel and Caramel Candy Bars (Homemade Take 5 Bars)</a>, <a href=\"https://spoonacular.com/recipes/five-ingredient-double-chocolate-cherry-pistachio-energy-bars-copycat-lara-bars-492976\">Five-Ingredient Double Chocolate Cherry Pistachio Energy Bars {copycat Lara Bars}</a>, and <a href=\"https://spoonacular.com/recipes/nuts-and-fruits-energy-bars-homemade-kind-bars-615372\">Nuts and Fruits Energy Bars {Homemade Kind Bars}</a>.",
+      "cuisines": [],
+      "dishTypes": ["dessert"],
+      "diets": [],
+      "occasions": [],
+      "winePairing": {
+        "pairedWines": ["cream sherry", "moscato dasti", "port"],
+        "pairingText": "Cream Sherry, Moscato d'Asti, and Port are great choices for Smores. A common wine pairing rule is to make sure your wine is sweeter than your food. Delicate desserts go well with Moscato d'Asti, nutty desserts with cream sherry, and caramel or chocolate desserts pair well with port. The NV Johnson Estate Cream Sherry with a 5 out of 5 star rating seems like a good match. It costs about 19 dollars per bottle.",
+        "productMatches": [
+          {
+            "id": 430626,
+            "title": "NV Johnson Estate Cream Sherry",
+            "description": "Very aromatic with notes of hazelnut, vanilla, and a touch of oak followed by sweet raisins and a touch of yeast. Clean lasting finish. Good now but will reward those allow it to age\"\". A favorite pre-prandial beverage. Consider it with nuts before dinner as an aperitif, or after dinner with dessert, especially chocolates and fruit-based desserts. Also wonderful on cold afternoons, served with biscotti to dip in \"\"Italian-style\"\". \"",
+            "price": "$19.49",
+            "imageUrl": "https://spoonacular.com/productImages/430626-312x231.jpg",
+            "averageRating": 1.0,
+            "ratingCount": 2.0,
+            "score": 0.8571428571428572,
+            "link": "https://www.amazon.com/Johnson-Estate-Cream-Sherry-750/dp/B00D3GQSRW?tag=spoonacular-20"
+          }
+        ]
+      },
+      "instructions": "Heat oven to 350F. Grease 8-inch square baking pan.\nMix graham cracker crumbs, melted butter, and sugar until mixed. Press half of dough in prepared pan.\nSprinkle  chocolate chips over graham cracker layer. Sprinkle with mini marshmallows; scatter bits of remaining graham cracker crust over marshmallows. Bake 15 to 17 minutes or just until lightly browned. Cool completely in pan on wire rack. Cut into bars. 16 bars.",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Heat oven to 350F. Grease 8-inch square baking pan.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404646,
+                  "name": "baking pan",
+                  "image": "roasting-pan.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "image": "oven.jpg",
+                  "temperature": {
+                    "number": 350.0,
+                    "unit": "Fahrenheit"
+                  }
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Mix graham cracker crumbs, melted butter, and sugar until mixed. Press half of dough in prepared pan.",
+              "ingredients": [
+                {
+                  "id": 10018617,
+                  "name": "graham cracker crumbs",
+                  "image": "graham-crackers.jpg"
+                },
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "image": "butter-sliced.jpg"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "image": "sugar-in-bowl.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Sprinkle  chocolate chips over graham cracker layer. Sprinkle with mini marshmallows; scatter bits of remaining graham cracker crust over marshmallows.",
+              "ingredients": [
+                {
+                  "id": 10119116,
+                  "name": "mini marshmallows",
+                  "image": "marshmallows-mini.png"
+                },
+                {
+                  "id": 10019146,
+                  "name": "chocolate chips",
+                  "image": "chocolate-chips.jpg"
+                },
+                {
+                  "id": 18617,
+                  "name": "graham crackers",
+                  "image": "graham-crackers.jpg"
+                },
+                {
+                  "id": 19116,
+                  "name": "marshmallows",
+                  "image": "normal-marshmallows.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Bake 15 to 17 minutes or just until lightly browned. Cool completely in pan on wire rack.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 405900,
+                  "name": "wire rack",
+                  "image": "wire-rack.jpg"
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": {
+                "number": 15,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 5,
+              "step": "Cut into bars. 16 bars.",
+              "ingredients": [],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/smore-bars-658936"
+    }
+  ]
+}

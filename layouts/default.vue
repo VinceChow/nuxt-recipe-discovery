@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-navigation-drawer app stateless permanent floating value="true">
+    <v-navigation-drawer v-model="drawer" app floating>
       <div class="my-3">
         <h1 class="font-weight-black display-1 text-center">
           Cookz
@@ -35,6 +35,9 @@
     </v-navigation-drawer>
 
     <v-app-bar fixed app color="white" flat>
+      <v-btn class="d-lg-none" icon>
+        <v-icon @click="drawer = !drawer">mdi-menu</v-icon>
+      </v-btn>
       <v-spacer></v-spacer>
       <v-btn icon>
         <v-icon>mdi-magnify</v-icon>
@@ -59,6 +62,8 @@ import { Vue, Component } from 'vue-property-decorator';
 
 @Component
 export default class DefaultComponent extends Vue {
+  private drawer = null;
+
   private discover = [
     { id: 1, icon: 'mdi-grain', title: 'Home' },
     { id: 2, icon: 'mdi-magnify', title: 'Browse' },
