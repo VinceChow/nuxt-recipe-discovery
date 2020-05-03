@@ -34,7 +34,7 @@
       </v-list>
     </v-navigation-drawer>
 
-    <v-app-bar fixed app color="white" elevate-on-scroll>
+    <v-app-bar fixed app color="white" flat>
       <v-spacer></v-spacer>
       <v-btn icon>
         <v-icon>mdi-magnify</v-icon>
