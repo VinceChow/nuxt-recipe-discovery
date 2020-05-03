@@ -68,7 +68,7 @@ export default class Index extends Vue {
 
     try {
       const res = await this.$axios.$get(
-        `${process.env.RECIPE_URL}/recipes/random?limitLicense=true&number=${this.totalRecipe}&apiKey=${process.env.RECIPE_API_KEY}`,
+        `${process.env.recipeUrl}/recipes/random?limitLicense=true&number=${this.totalRecipe}&apiKey=${process.env.recipeApiKey}`,
         config
       );
       this.recipes = res.recipes.filter((recipe: IRecipe) => recipe.image);

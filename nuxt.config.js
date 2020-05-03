@@ -1,4 +1,5 @@
 import colors from 'vuetify/es5/util/colors';
+require('dotenv').config();
 
 export default {
   mode: 'spa',
@@ -83,5 +84,10 @@ export default {
      ** You can extend webpack config here
      */
     extend() {}
+  },
+  env: {
+    baseUrl: process.env.BASE_URL || 'http://localhost:3000',
+    recipeUrl: process.env.RECIPE_URL,
+    recipeApiKey: process.env.RECIPE_API_KEY
   }
 };
