@@ -60,6 +60,12 @@ export default class Index extends Vue {
   private overlay: boolean = true;
 
   async created() {
+    console.log(process.env.HOST);
+    console.log(process.env.NODE_ENV);
+    console.log(process.env.NPM_CONFIG_PRODUCTION);
+    console.log(process.env.RECIPE_URL);
+    console.log(process.env.RECIPE_API_KEY);
+
     const config = {
       headers: {
         Accept: 'application/json'
